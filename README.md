@@ -21,16 +21,6 @@ Indoor air pollution can negatively impact health and productivity. This project
 
 ---
 
-# 📷 Project Architecture
-
-> *(Insert your infographic or architecture image here.)*
-
-Example:
-
-![System Architecture](Images/System_Architecture.png)
-
----
-
 # ⚙️ Hardware Components
 
 | Component | Purpose |
