@@ -155,14 +155,9 @@ The system successfully
 
 ---
 
-# 📷 Project Image
+# 🖼️ Project Overview
 
-
-
-## Machine Learning Results
-
-![ML Results](Images/ml_results.png)
-
+![System Architecture](Images/system_architecture.png)
 ---
 
 # 📁 Dataset
