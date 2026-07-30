@@ -34,6 +34,14 @@ Indoor air pollution can negatively impact health and productivity. This project
 
 ---
 
+# 📷 Circuit Diagram
+
+## Hardware Setup
+
+![Circuit Diagram](Circuit_Diagram/circuit_diagram.png)
+
+---
+
 # 💻 Software & Technologies
 
 - Arduino IDE
